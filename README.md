@@ -1,2 +1,2 @@
 # projects-2
-This project focuses on designing a modern and responsive portfolio website using HTML and CSS. 
+This project focuses on designing a modern and responsive portfolio website using HTML and CSS. The website adapts to different screen sizes such as mobile, tablet, and desktop by using media queries, Flexbox, and CSS Grid. It includes sections like Home, About, Skills, Projects, and Contact. The main objective is to create an attractive, user-friendly, and accessible interface with proper layout, colors, and navigation.
